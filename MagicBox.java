@@ -17,6 +17,7 @@ public class MagicBox<T> {
             }
         }
         return false;
+        
     }
     public T pick() {
         for (int i = 0; i < objects.length; i++) {

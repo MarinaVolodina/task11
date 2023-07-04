@@ -12,6 +12,7 @@ public class Main {
         stringMagicBox.add("magicString");
 
         String pick = stringMagicBox.pick();
+
         System.out.println(pick);
     }
 }
